@@ -2,7 +2,7 @@
 
 Exercise list in order:
 
-* [Setup of your Terraform training environment](setup.md)
+* [Setup your Terraform training environment](setup.md)
 * [01 - Introduction to Terraform - Hello World!](https://github.com/eficode-academy/terraform-fundamentals/blob/noemi/test-exercises/tf-exercises/01%20-%20Hello%20World/README.md)
 * [02 - Resources](https://github.com/eficode-academy/terraform-fundamentals/tree/noemi/test-exercises/tf-exercises/02%20-%20Resources)
 * [03 - Variables: local, tfvars](https://github.com/eficode-academy/terraform-fundamentals/tree/noemi/test-exercises/tf-exercises/02%20-%20Resources)
