@@ -32,3 +32,5 @@ override.tf.json
 # Ignore CLI configuration files
 .terraformrc
 terraform.rc
+tf-exercises/01a - Hello World without Azure/.terraform.lock.hcl
+tf-exercises/01 - Hello World (without Azure)/web/index.html

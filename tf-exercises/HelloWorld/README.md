@@ -24,13 +24,39 @@ In this exercise, you will:
 
 ### Tasks
 
-**Run Terraform init**
+**Initialize workspace**
 
 ```bash
 terraform init
 ```
 
 💡 Notice the new files generated in the project folder.
+
+**Create resource with Terraform**
+
+Optionally you can run 
+
+```bash
+terraform validate
+```
+
+```bash
+terraform plan
+```
+
+```bash
+terraform apply
+```
+
+**Access the created resource**
+
+Should be available on localhost:8000
+
+**Destroy resource**
+
+```bash
+terraform destroy
+```
 
 :bulb: **Terraform Best Practice #1**
 
