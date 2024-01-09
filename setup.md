@@ -6,15 +6,15 @@ Terraform serves as an infrastructure as code (IaC) tool designed to automate th
 
 ## Learning Goals
 
-   - Infrastructure as Code Fundamentals: Understand the principles of Infrastructure as Code (IaC) and the declarative vs. imperative programming paradigm. Learn to express infrastructure configurations using Terraform's HashiCorp Configuration Language (HCL) and grasp the significance of version control for maintaining a version-controlled, collaborative approach.
+   - **Infrastructure as Code Fundamentals**: Understand the principles of Infrastructure as Code (IaC) and the declarative vs. imperative programming paradigm. Learn to express infrastructure configurations using Terraform's HashiCorp Configuration Language (HCL) and grasp the significance of version control for maintaining a version-controlled, collaborative approach.
 
-   - Terraform Basics and CLI Commands: Master the essential Terraform commands and their lifecycle, including init, plan, apply, and destroy. Familiarize yourself with the Terraform CLI, its installation, and common commands for initializing working directories, provisioning infrastructure, and managing state.
+   - **Terraform Basics and CLI Commands**: Master the essential Terraform commands and their lifecycle, including init, plan, apply, and destroy. Familiarize yourself with the Terraform CLI, its installation, and common commands for initializing working directories, provisioning infrastructure, and managing state.
 
-   - Managing Terraform Resources: Gain practical experience in managing Terraform resources by applying pre-baked modules to deploy infrastructure, such as an Azure Function with a web page. Understand the workflow of building, modifying, and destroying resources, ensuring a hands-on understanding of Terraform's core functionalities.
+   - **Managing Terraform Resources**: Gain practical experience in managing Terraform resources by applying pre-baked modules to deploy infrastructure, such as an Azure Function with a web page. Understand the workflow of building, modifying, and destroying resources, ensuring a hands-on understanding of Terraform's core functionalities.
 
-   - Terraform Variables and State Management: Explore the use of variables in Terraform, including their definition, usage, and considerations for maintaining clean and modular code. Dive into Terraform state, differentiating between local and remote states, and learn crucial state management commands such as terraform state list and terraform import.
+   - **Terraform Variables and State Management**: Explore the use of variables in Terraform, including their definition, usage, and considerations for maintaining clean and modular code. Dive into Terraform state, differentiating between local and remote states, and learn crucial state management commands such as terraform state list and terraform import.
 
-   - Advanced Terraform Features: Delve into advanced Terraform features such as depends_on, for_each, count, conditional expressions, and dynamic blocks. Understand how these features contribute to creating more dynamic and flexible infrastructure configurations, aligning with best practices and optimizing code efficiency.
+   - **Advanced Terraform Features**: Delve into advanced Terraform features such as depends_on, for_each, count, conditional expressions, and dynamic blocks. Understand how these features contribute to creating more dynamic and flexible infrastructure configurations, aligning with best practices and optimizing code efficiency.
 
 ## Exercise
 
