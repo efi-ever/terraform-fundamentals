@@ -29,7 +29,7 @@ Set up your training environment by installing Terraform and Azure CLI.
 
 ### Install Terraform
 
-The installation method depends on the operating system you are using.
+💡 The installation method depends on the operating system you are using.
 Find the options on the official Terraform site here: https://developer.hashicorp.com/terraform/tutorials/azure-get-started/install-cli#install-terraform
 
 #### Verify the installation 
