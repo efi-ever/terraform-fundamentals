@@ -8,4 +8,4 @@ Exercise list in order:
 * [03 - Variables: local, tfvars](https://github.com/eficode-academy/terraform-fundamentals/tree/noemi/test-exercises/tf-exercises/Variables/README.md)
 * [04 - Local vs Remote State]()
 * [05 - Advanced commands: depends on, foreach, count, conditional expressions, dynamic blocks]()
-* [06 - Modules](https://github.com/eficode-academy/terraform-fundamentals/blob/noemi/test-exercises/tf-exercises/Modules/README.md)
+* [06 - Modules](https://github.com/eficode-academy/terraform-fundamentals/blob/noemi/test-exercises/tf-exercises/AboutModules/README.md)
