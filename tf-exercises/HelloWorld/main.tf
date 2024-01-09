@@ -5,7 +5,7 @@ provider "null" {}
 resource "null_resource" "hello_world" {
 # this line declares a provisioner of type local-exec, executing a command on the machine running Terraform, not on the resource
   provisioner "local-exec" {
-    command = "echo '<html><body><h1>Hello, World!</h1></body></html>' > web/index.html && busybox httpd -p 8000 -h web"
+    command = "echo '<html><body><h1>Welcome to Terraform Fundamentals!</h1></body></html>' > web/index.html && busybox httpd -p 8000 -h web"
     working_dir = "${path.module}"
   }
 # this line declares a dependency on the resource create_directory - meaning that Terraform will make sure that the needed folder is created before the hello_world resource

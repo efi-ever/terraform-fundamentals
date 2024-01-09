@@ -1,11 +1,12 @@
-# Introduction to Terraform CLI
+# Introduction to Terraform CLI and HCL
 
 ## Learning Goals
 
+- Familiarize yourself with the Hashicorp Configuration Language
 - Initialize your Terraform workspace
-- Plan and apply the resources in your Terraform configuration file
+- Plan and apply the resources in your Terraform configuration 
+- Inspect the Terraform state file
 - Destroy Terraform resources
-- Explore additional subcommands
   
 ## Introduction
 
