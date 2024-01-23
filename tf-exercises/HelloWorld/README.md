@@ -1,5 +1,13 @@
 # Introduction to Terraform CLI and HCL
 
+The core Terraform workflow consists of three main steps after you have written your Terraform configuration:
+
+    **Initialize** prepares your workspace so Terraform can apply your configuration.
+    **Plan** allows you to preview the changes Terraform will make before you apply them.
+    **Apply** makes the changes defined by your plan to create, update, or destroy resources.
+
+When you initialize a Terraform workspace, Terraform configures the backend, installs all providers and modules referred to in your configuration, and creates a version lock file if one doesn't already exist. In addition, you can use the terraform init command to change your workspace's backend and upgrade your workspace's providers and modules.
+
 ## Learning Goals
 
 - Familiarize yourself with the Hashicorp Configuration Language
