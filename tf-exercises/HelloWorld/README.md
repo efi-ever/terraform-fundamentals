@@ -29,7 +29,6 @@ In this exercise, you will:
 - Initialize your workspace
 - Create a basic Hello World display on localhost:8000 using Terraform CLI commands
 - Destroy the created resource
-- Explore further subcommands
 
 ### Tasks
 

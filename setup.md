@@ -6,6 +6,7 @@
 
 - Initialize your workspace
 
+- Practice use the CLI
 ## Exercise
 
 ### Prerequisites
@@ -57,4 +58,9 @@ The output includes credentials that you must protect. Be sure that you do not i
   "password": "xxxxxx~xxxxxx~xxxxx",
   "tenant": "xxxxx-xxxx-xxxxx-xxxx-xxxxx"
 }
-``
+```
+
+#### Check Terraform version
+``` bash
+terraform version
+```
