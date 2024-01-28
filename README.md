@@ -33,16 +33,16 @@ Exercise list in order:
 # Terraform Providers
 * [05 - Providers](https://github.com/eficode-academy/terraform-fundamentals/tree/noemi/test-exercises/tf-exercises/Providers/README.md)
 
+# Modules WIP
+* [06 - Modules](https://github.com/eficode-academy/terraform-fundamentals/blob/noemi/test-exercises/tf-exercises/TFModules/README.md)
+
+# Advanced commands: Functions and Expressions
+* [07 - Advanced commands: depends on, foreach, count, conditional expressions, dynamic blocks]()
+
 # Terraform Resources
-* [06 - Resources](https://github.com/eficode-academy/terraform-fundamentals/tree/noemi/test-exercises/tf-exercises/Resources/README.md)
+* [08 - Resources](https://github.com/eficode-academy/terraform-fundamentals/tree/noemi/test-exercises/tf-exercises/Resources/README.md)
 
 # Terraform Variables
-* [07 - Variables: local, tfvars](https://github.com/eficode-academy/terraform-fundamentals/tree/noemi/test-exercises/tf-exercises/Variables/README.md)
-
-# Advanced commands
-* [08 - Advanced commands: depends on, foreach, count, conditional expressions, dynamic blocks]()
-
-# Modules
-* [09 - Modules](https://github.com/eficode-academy/terraform-fundamentals/blob/noemi/test-exercises/tf-exercises/AboutModules/README.md)
+* [09 - Variables: local, tfvars](https://github.com/eficode-academy/terraform-fundamentals/tree/noemi/test-exercises/tf-exercises/Variables/README.md)
 
 # Best Practices
