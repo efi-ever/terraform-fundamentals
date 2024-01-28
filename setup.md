@@ -43,11 +43,13 @@ https://learn.microsoft.com/en-us/cli/azure/install-azure-cli
 #### Login to Azure CLI
 Terraform must authenticate to Azure to create infrastructure.
 In your terminal, use the Azure CLI tool to setup your account permissions locally.
+
 ``` bash
 az login
 ```
 #### Create Service Principal
 A Service Principal is an application within Azure Active Directory with the authentication tokens Terraform needs to perform actions on your behalf. Update the <SUBSCRIPTION_ID> with the subscription ID you specified in the previous step.
+
 ``` bash
 az ad sp create-for-rbac --role="Contributor" --scopes="/subscriptions/<SUBSCRIPTION_ID>"
 Creating 'Contributor' role assignment under scope '/subscriptions/35akss-subscription-id'
@@ -61,6 +63,7 @@ The output includes credentials that you must protect. Be sure that you do not i
 ```
 
 #### Check Terraform version
+
 ``` bash
 terraform version
 ```
