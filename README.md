@@ -45,6 +45,6 @@ Exercise list in order:
 * [Advanced commands: depends on, foreach, count, conditional expressions, dynamic blocks]()
 
 # Modules WIP
-* [Modules](https://github.com/eficode-academy/terraform-fundamentals/blob/noemi/test-exercises/tf-exercises/TFModules/README.md)
+* [Modules](https://github.com/eficode-academy/terraform-fundamentals/tree/noemi/test-exercises/tf-exercises/TFModules/README.md)
 
 # Best Practices
