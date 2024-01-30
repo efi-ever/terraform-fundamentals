@@ -41,10 +41,10 @@ Exercise list in order:
 # Terraform Variables
 * [Variables: local, tfvars](https://github.com/eficode-academy/terraform-fundamentals/tree/noemi/test-exercises/tf-exercises/Variables/README.md)
 
-# Advanced commands: Functions and Expressions
+# Functions and Expressions
 * [Advanced commands: depends on, foreach, count, conditional expressions, dynamic blocks]()
 
-# Modules WIP
+# Modules
 * [Modules](https://github.com/eficode-academy/terraform-fundamentals/tree/noemi/test-exercises/tf-exercises/TFModules/README.md)
 
 # Best Practices
