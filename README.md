@@ -33,7 +33,7 @@ Exercise list in order:
 * [Providers](https://github.com/eficode-academy/terraform-fundamentals/tree/noemi/test-exercises/tf-exercises/Providers/README.md)
 
 # Terraform State
-* [Local vs Remote State](https://github.com/eficode-academy/terraform-fundamentals/tree/noemi/test-exercises/tf-exercises/State/README.md)
+* [Local vs. Remote State](https://github.com/eficode-academy/terraform-fundamentals/tree/noemi/test-exercises/tf-exercises/State/README.md)
 
 # Terraform Resources
 * [Resources](https://github.com/eficode-academy/terraform-fundamentals/tree/noemi/test-exercises/tf-exercises/Resources/README.md)
@@ -42,7 +42,7 @@ Exercise list in order:
 * [Variables: local, tfvars](https://github.com/eficode-academy/terraform-fundamentals/tree/noemi/test-exercises/tf-exercises/Variables/README.md)
 
 # Functions and Expressions
-* [Advanced commands: depends on, foreach, count, conditional expressions, dynamic blocks]()
+* [depends on, foreach, count, conditional expressions, dynamic blocks]()
 
 # Modules
 * [Modules](https://github.com/eficode-academy/terraform-fundamentals/tree/noemi/test-exercises/tf-exercises/TFModules/README.md)
