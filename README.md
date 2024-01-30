@@ -18,31 +18,33 @@ Terraform serves as an infrastructure as code (IaC) tool designed to automate th
 
 Exercise list in order:
 
-# Setup of training environment, CLI, HCL Syntax
+# Setup of training environment
 * [Setup your Terraform training environment](setup.md)
 
-* [01 - Terraform CLI](https://github.com/eficode-academy/terraform-fundamentals/tree/noemi/test-exercises/tf-exercises/TerraformCLI/README.md)
+# HCL Syntax, CLI
 
 * [02 - HCL Syntax](https://github.com/eficode-academy/terraform-fundamentals/tree/noemi/test-exercises/tf-exercises/HCLSyntax/README.md)
 
-* [03 - Introduction to Terraform - Hello World!](https://github.com/eficode-academy/terraform-fundamentals/tree/noemi/test-exercises/tf-exercises/HelloWorld/README.md)
+* [01 - Terraform CLI](https://github.com/eficode-academy/terraform-fundamentals/tree/noemi/test-exercises/tf-exercises/TerraformCLI/README.md)
 
-# Terraform State
-* [04 - Local vs Remote State](https://github.com/eficode-academy/terraform-fundamentals/tree/noemi/test-exercises/tf-exercises/State/README.md)
+* [03 - Introduction to Terraform - Hello World!](https://github.com/eficode-academy/terraform-fundamentals/tree/noemi/test-exercises/tf-exercises/HelloWorld/README.md)
 
 # Terraform Providers
 * [05 - Providers](https://github.com/eficode-academy/terraform-fundamentals/tree/noemi/test-exercises/tf-exercises/Providers/README.md)
 
-# Modules WIP
-* [06 - Modules](https://github.com/eficode-academy/terraform-fundamentals/blob/noemi/test-exercises/tf-exercises/TFModules/README.md)
-
-# Advanced commands: Functions and Expressions
-* [07 - Advanced commands: depends on, foreach, count, conditional expressions, dynamic blocks]()
+# Terraform State
+* [04 - Local vs Remote State](https://github.com/eficode-academy/terraform-fundamentals/tree/noemi/test-exercises/tf-exercises/State/README.md)
 
 # Terraform Resources
 * [08 - Resources](https://github.com/eficode-academy/terraform-fundamentals/tree/noemi/test-exercises/tf-exercises/Resources/README.md)
 
 # Terraform Variables
 * [09 - Variables: local, tfvars](https://github.com/eficode-academy/terraform-fundamentals/tree/noemi/test-exercises/tf-exercises/Variables/README.md)
+
+# Advanced commands: Functions and Expressions
+* [07 - Advanced commands: depends on, foreach, count, conditional expressions, dynamic blocks]()
+
+# Modules WIP
+* [06 - Modules](https://github.com/eficode-academy/terraform-fundamentals/blob/noemi/test-exercises/tf-exercises/TFModules/README.md)
 
 # Best Practices
