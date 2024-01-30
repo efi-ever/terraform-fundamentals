@@ -27,7 +27,7 @@ Exercise list in order:
 
 * [Terraform CLI](https://github.com/eficode-academy/terraform-fundamentals/tree/noemi/test-exercises/tf-exercises/TerraformCLI/README.md)
 
-* [Introduction to Terraform - Hello World!](https://github.com/eficode-academy/terraform-fundamentals/tree/noemi/test-exercises/tf-exercises/HelloWorld/README.md)
+* [Hello World!](https://github.com/eficode-academy/terraform-fundamentals/tree/noemi/test-exercises/tf-exercises/HelloWorld/README.md)
 
 # Terraform Providers
 * [Providers](https://github.com/eficode-academy/terraform-fundamentals/tree/noemi/test-exercises/tf-exercises/Providers/README.md)
