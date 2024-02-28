@@ -6,14 +6,13 @@
 
 - Initialize your workspace
 
-- Practice use the CLI
+- Practice using the CLI
 ## Exercise
 
 ### Prerequisites
 
   - Install Terraform CLI
   - Install Azure CLI
-  - Login to Azure CLI
   - Create Service Principal
 
 ### Install Terraform CLI
