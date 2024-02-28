@@ -2,7 +2,7 @@
 
 Exercises for the Terraform Fundamentals course by Eficode
 
-💡 **About Terraform**
+**About Terraform**
 
 Terraform serves as an infrastructure as code (IaC) tool designed to automate the provisioning and management of cloud resources. Users define their desired infrastructure configuration using HashiCorp Configuration Language (HCL), allowing for the creation, modification, and scaling of resources across various cloud platforms such as AWS, Azure, and Google Cloud. Its core functionalities include a declarative syntax, modular design with reusable components called modules, and a "plan" execution model that calculates and presents actions needed to achieve the desired state. Terraform enhances collaboration, ensures infrastructure consistency, and supports a version-controlled, collaborative approach to managing cloud environments.
 
@@ -16,7 +16,7 @@ Terraform serves as an infrastructure as code (IaC) tool designed to automate th
 
    - **Terraform Variables and State Management**: Explore the use of variables in Terraform, including their definition, usage, and considerations for maintaining clean and modular code. Dive into Terraform state, differentiating between local and remote states, and learn crucial state management commands such as terraform state list and terraform import.
 
-Exercise list in order:
+## Exercise list in order:
 
 # Setup of training environment
 * [Setup your Terraform training environment](setup.md)
