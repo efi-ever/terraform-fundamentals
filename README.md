@@ -46,5 +46,3 @@ Exercise list in order:
 
 # Modules
 * [Modules](https://github.com/eficode-academy/terraform-fundamentals/tree/noemi/test-exercises/tf-exercises/TFModules/README.md)
-
-# Best Practices
